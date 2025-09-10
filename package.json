@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.essence",
+  "displayName": "Unity Starter pack",
+  "version": 1.0.0",
+  "unity": "6000.0",
+  "keywords": [
+    "TextMeshPro",
+  ],
+  "description": "Unity Game Assets for my start Project.",
+  "dependencies": {
+    "com.unity.cinemachine": "3.1.4",
+    "com.unity.recorder": "5.1.2"
+  }
+}
